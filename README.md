@@ -46,3 +46,8 @@ This repository contains detailed training notebooks for YOLOv8, YOLOv10, YOLO-N
     - onnx_verify.py
     - yolo_to_IR.py
     - VINO_run.py
+- RT_DETR
+  - RT_DETR.ipynb
+  - first_11_frames(1).mp4
+  - processing_times_RT_DETR_gpu.csv
+  - readme.txt
