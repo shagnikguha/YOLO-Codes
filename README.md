@@ -41,8 +41,8 @@ This repository contains detailed training notebooks for YOLOv8, YOLOv10, YOLO-N
 - Open_VINO_Ultralytics
   - note.txt
   - best_openvino_model
-- OpenVINO
-  - yolo_to_onnx.py
-  - onnx_verify.py
-  - yolo_to_IR.py
-  - VINO_run.py
+  - OpenVINO
+    - yolo_to_onnx.py
+    - onnx_verify.py
+    - yolo_to_IR.py
+    - VINO_run.py
